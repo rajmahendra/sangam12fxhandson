@@ -1,6 +1,11 @@
 *.class
+.DS_Store
+
 
 # Package Files #
 *.jar
 *.war
 *.ear
+/Sangam12JavaFX/nbproject/private/
+/Sangam12JavaFX/build/
+/Sangam12JavaFX/dist/
